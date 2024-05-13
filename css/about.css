@@ -1,0 +1,67 @@
+
+
+h3 {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+
+}
+.h3about {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #101010;
+    font-size: 25px;
+    align-content: center;
+    width: 100%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid black;
+    animation: glow 3000ms infinite;
+    padding: 70px 0px 70px 0px;
+}
+
+@keyframes h3about {
+    0% { 
+        box-shadow: 0 0 -10px #ff4400;
+    }
+    20% { 
+        box-shadow: 0 0 20px #ff4400;
+    }
+    40% { 
+        box-shadow: 0 0 40px #ff4400;
+    }
+    60% { 
+        box-shadow: 0 0 40px #ff4400;
+    }
+    80% { 
+        box-shadow: 0 0 20px #ff4400;
+    }
+    100% { 
+        box-shadow: 0 0 -10px #ff4400; 
+    }
+}
+
+/*
+
+    margin-top
+    margin-right
+    margin-bottom
+    margin-left
+
+*/
+
+#h3about2  {
+    text-align: center;
+    background-color: #f56633;
+}
+
+/*
+@media screen and (max-width: 320px) {
+    body{
+        overflow-x: hidden;
+    }
+}
+*/
