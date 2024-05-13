@@ -6,7 +6,6 @@ Welcome to the Salvador Dali Gallery Website project! This project aims to showc
 
 The Salvador Dali Gallery Website offers visitors a visually stunning experience, allowing them to explore Dali's masterpieces, learn about his life and artistic vision, and immerse themselves in the surreal world of one of the most influential artists of the 20th century.
 
-
 ## ⚠️ Warning ⚠️
 
 **THIS PROJECT IS ONLY FOR EDUCATION PURPOSES ONLY. I'M NEW AT WEB DEVELOPMENT AND TRYING MY SKILLS TO UPDATE THIS PROJECT EVERY DAY.**
