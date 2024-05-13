@@ -50,16 +50,7 @@ body {
     0% { 
         box-shadow: 0 0 -10px #ff4400;
     }
-    20% { 
-        box-shadow: 0 0 20px #ff4400;
-    }
-    40% { 
-        box-shadow: 0 0 40px #ff4400;
-    }
-    60% { 
-        box-shadow: 0 0 40px #ff4400;
-    }
-    80% { 
+    50% { 
         box-shadow: 0 0 20px #ff4400;
     }
     100% { 
