@@ -101,17 +101,6 @@ nav {
     margin: 10px;
 }
 
-/*
-nav a{
-    text-decoration: none;
-    padding: 0 15px;
-    color: #000000;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-}
-*/
-
 nav a {
     position: relative;
     text-decoration: none;
@@ -261,9 +250,4 @@ footer a{
 }
 footer a:hover{
     color: #ff357f;
-}
-
-
-@media screen and (max-width: 768px) {
-    
 }
