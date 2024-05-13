@@ -31,7 +31,9 @@ To view the Salvador Dali Gallery Website, simply click [Website](https://mrcyod
 
 ## Screenshots
 
-[Add screenshots or demo videos here if available]
+![Screenshot-1](https://github.com/MRCYODev/salvador-dali-gallery-website/blob/main/screenshots/photo-1.png)
+![Screenshot-2](https://github.com/MRCYODev/salvador-dali-gallery-website/blob/main/screenshots/photo-2.png)
+![Screenshot-3](https://github.com/MRCYODev/salvador-dali-gallery-website/blob/main/screenshots/photo-3.png)
 
 ## Contributing
 
