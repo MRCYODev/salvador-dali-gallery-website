@@ -157,7 +157,8 @@ nav a:hover:after{
     text-align: center;
     justify-content: center;
     justify-items: center;
-
+    border: dashed 2px #333;
+    border-radius: 50px;
 }
 
 .gallery a {
@@ -250,4 +251,16 @@ footer a{
 }
 footer a:hover{
     color: #ff357f;
+}
+
+@media only screen and (max-width: 768px){  
+    html,
+    body{
+        width: 100%;
+        overflow-x: hidden;
+    }
+    .gallery {
+        border: dotted 5px #333;
+        border-radius: 50px;
+    }
 }
