@@ -84,7 +84,7 @@ h2 {
     font-weight: 900;
 }
 
-
+/*
 #main-container {
     position: relative;
     min-height: 270vh;
@@ -92,6 +92,7 @@ h2 {
 #main-wrap {
     padding-bottom: 2.5rem;
 }
+*/
 
 nav {
     text-decoration: none;
@@ -226,6 +227,8 @@ nav a:hover:after{
     width: 100%;
 }
 
+/*
+
 #footer {
     position: absolute;
     bottom: 0;
@@ -233,16 +236,17 @@ nav a:hover:after{
     height: 2.5rem;
 }
 
+
 footer{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-    bottom: 0;
     color: #f3f3f3;
     background: #333;
     text-align: center;
-    padding-top: 1rem;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
 }
 
 footer a{
@@ -252,6 +256,88 @@ footer a{
 footer a:hover{
     color: #ff357f;
 }
+
+*/
+
+footer{
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    height: auto;
+    padding-top: 40px;
+    background-color: #101010;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #fff;
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-content h3{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+}
+
+.footer-bottom{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer-bottom p a{
+    text-decoration: none;
+    color: #FADA5D;
+}
+
+.footer-bottom p a:hover{
+    color: #f56633;
+    transition: 0.4s;
+}
+
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+    font-size: 2rem;
+    flex-wrap: wrap;
+
+}
+
+.socials li{
+    margin: 0 10px;
+}
+.socials a{
+    text-decoration: none;
+    color: #fff;
+}
+.socials a:hover i{
+    color: #FADA5D;
+    transition: 1.2s;
+    text-shadow: 0 0 6px #A80B44;
+}
+
+
+
 
 @media only screen and (max-width: 768px){  
     html,
