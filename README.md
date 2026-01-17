@@ -64,3 +64,10 @@ This project is open-source and licensed under the [MIT License](LICENSE). You a
 
 Special thanks to [Salvador Dali](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD) for his extraordinary artistic contributions, and to all contributors who help improve this project.
 
+## TODO:
+
+- Fix the about page CSS
+- Add 100% mobile responsive CSS
+- Add Salvador Dali Picture
+- Add contact page
+- Try javascript
