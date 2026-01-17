@@ -76,3 +76,5 @@ Special thanks to [Salvador Dali](https://en.wikipedia.org/wiki/Salvador_Dal%C3%
 - Move Paintings to another page not on the index
 - Remake The Index page
 - Remove Social Media Button URLS (leave them blank)
+- Rename the project to, Salvador Dali Gallery
+- Add Better image viewer
