@@ -71,3 +71,8 @@ Special thanks to [Salvador Dali](https://en.wikipedia.org/wiki/Salvador_Dal%C3%
 - Add Salvador Dali Picture
 - Add contact page
 - Try javascript
+- Add Search bar, to search paintings
+- Add 404 Page not found
+- Move Paintings to another page not on the index
+- Remake The Index page
+- Remove Social Media Button URLS (leave them blank)
